@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300269042830",
+    "project_id": "emaligai",
+    "storage_bucket": "emaligai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300269042830:android:249e5461b4ae4c6f059ddf",
+        "android_client_info": {
+          "package_name": "com.emaligai.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300269042830-th2qhrs6b0eohje33p17lre9m627r7rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xKTc9gIdh5eP8FVXgtKovrRkB_-Derg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300269042830-th2qhrs6b0eohje33p17lre9m627r7rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
